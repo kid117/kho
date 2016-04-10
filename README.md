@@ -1,2 +1,0 @@
-# kho
-kho luu tru
